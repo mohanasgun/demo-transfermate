@@ -14,3 +14,5 @@ By default I added few test data in xml files. Including one korean and japanese
 I have designed like authors can have multiple books. Book belongs to one author.
 
 I used JQuery for fast dynamic ajax call.
+
+I added .env file also, since there is no security concerns there.
